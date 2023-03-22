@@ -19,3 +19,4 @@ $produtos = [
     $produto3] ;
 
 echo json_encode($produtos);
+
