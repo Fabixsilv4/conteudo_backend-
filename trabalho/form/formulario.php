@@ -30,4 +30,5 @@
     </form>
 </div>
 
-    <?php require_once "../template/rodape.php"; ?>animal
+    <?php require_once "../template/rodape.php"; ?>
+    

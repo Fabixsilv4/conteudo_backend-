@@ -18,13 +18,13 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="../imagem/a.jpg" class="d-block w-100" alt="...">
+      <img src="../imagem/a.jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="../imagem/b.jpg" class="d-block w-100" alt="...">
+      <img src="../imagem/b.jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="../imagem/c.jpg" class="d-block w-100" alt="...">
+      <img src="../imagem/c.jpeg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
